@@ -1,0 +1,3 @@
+download the USE model from the below link:
+https://tfhub.dev/google/universal-sentence-encoder-multilingual-qa/3
+extract the file in this folder
